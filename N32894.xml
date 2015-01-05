@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="description_of_lottery">
-            <pb facs="tcp:043204_0000_101CAC76F25AA3E8"/>
-            <pb facs="tcp:043204_0001_101CD667456B19A8" rendition="simple:additions"/>
+            <pb facs="unknown:043204_0000_101CAC76F25AA3E8"/>
+            <pb facs="unknown:043204_0001_101CD667456B19A8"
+                rendition="simple:additions"/>
             <head>UNITED STATES LOTTERY; 1776.</head>
             <p>The SCHEME is, that this LOTTERY consist of Four Classes, of One Hundred Thousand Tickets each.</p>
             <div type="class">
